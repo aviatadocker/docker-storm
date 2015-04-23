@@ -4,9 +4,9 @@
 # Docker Hub - http://hub.docker.com/u/dalekurt/storm
 # Twitter - http://www.twitter.com/dalekurt
 
-FROM dalekurt/base
+FROM aviata/base
 
-MAINTAINER Dale-Kurt Murray "dalekurt.murray@gmail.com"
+MAINTAINER jmarsh.ext@aviatainc.com "jmarsh.ext@aviatainc.com"
 
 ENV STORM_VERSION 0.9.4
 

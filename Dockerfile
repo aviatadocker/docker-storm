@@ -4,7 +4,7 @@
 # Docker Hub - http://hub.docker.com/u/dalekurt/storm
 # Twitter - http://www.twitter.com/dalekurt
 
-FROM aviata/base
+FROM aviata/base-2
 
 MAINTAINER jmarsh.ext@aviatainc.com "jmarsh.ext@aviatainc.com"
 

@@ -4,7 +4,9 @@
 # Docker Hub - http://hub.docker.com/u/dalekurt/storm
 # Twitter - http://www.twitter.com/dalekurt
 
-FROM aviata/base-2
+#FROM aviata/base-2
+# Storm nimbus requires Java.
+FROM aviata/java7
 
 MAINTAINER jmarsh.ext@aviatainc.com "jmarsh.ext@aviatainc.com"
 

@@ -6,7 +6,7 @@
 
 #FROM aviata/base-2
 # Storm nimbus requires Java.
-FROM aviata/java8
+FROM aviata/ubuntu-java8
 
 MAINTAINER jmarsh.ext@aviatainc.com "jmarsh.ext@aviatainc.com"
 
